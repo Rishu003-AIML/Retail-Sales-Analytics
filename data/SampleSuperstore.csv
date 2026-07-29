@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Mode,Customer Name,Region,State,City,Category,Sub-Category,Product Name,Quantity,Discount,Sales,Profit
+1001,2024-01-01,First Class,Customer_1,East,New York,New York,Technology,Laptops,Laptop X,2,0.2,272.68,-3.85
+1002,2024-01-02,First Class,Customer_2,South,Karnataka,Bengaluru,Technology,Laptops,Laptop X,4,0.2,437.97,70.38
+1003,2024-01-03,Standard Class,Customer_3,South,Karnataka,Bengaluru,Office Supplies,Storage,Storage Box,7,0.1,1461.74,-69.76
+1004,2024-01-04,Second Class,Customer_4,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,5,0,189.62,-3.06
+1005,2024-01-05,Second Class,Customer_5,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,4,0,1497.19,249.26
+1006,2024-01-06,Second Class,Customer_6,East,New York,New York,Technology,Laptops,Laptop X,6,0.05,1563.01,129.8
+1007,2024-01-07,Standard Class,Customer_7,North,Punjab,Ludhiana,Office Supplies,Storage,Storage Box,3,0.2,1270.73,240.48
+1008,2024-01-08,First Class,Customer_8,West,California,Los Angeles,Furniture,Bookcases,Wooden Bookcase,4,0.1,1781.4,309.96
+1009,2024-01-09,First Class,Customer_9,East,New York,New York,Furniture,Furnishings,Desk Lamp,6,0.05,500.24,11.93
+1010,2024-01-10,First Class,Customer_10,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,5,0.2,272.84,57.5
+1011,2024-01-11,Standard Class,Customer_11,South,Tamil Nadu,Chennai,Technology,Laptops,Laptop X,2,0.05,929.41,-16.9
+1012,2024-01-12,Second Class,Customer_12,West,Washington,Seattle,Furniture,Furnishings,Desk Lamp,1,0,1082.7,123.23
+1013,2024-01-13,First Class,Customer_13,North,Punjab,Ludhiana,Furniture,Furnishings,Desk Lamp,5,0.2,305.73,-14.94
+1014,2024-01-14,First Class,Customer_14,West,California,Los Angeles,Office Supplies,Binders,Binder Set,1,0.2,296.29,64.26
+1015,2024-01-15,Second Class,Customer_15,North,Punjab,Ludhiana,Technology,Accessories,Wireless Mouse,4,0,1584.73,382.05
+1016,2024-01-16,First Class,Customer_16,West,California,Los Angeles,Office Supplies,Labels,Label Roll,3,0.05,1473.44,430.68
+1017,2024-01-17,First Class,Customer_17,South,Karnataka,Bengaluru,Office Supplies,Labels,Label Roll,4,0.1,1736.74,477.81
+1018,2024-01-18,Second Class,Customer_18,South,Tamil Nadu,Chennai,Office Supplies,Labels,Label Roll,1,0.2,239.78,6.87
+1019,2024-01-19,Second Class,Customer_19,West,California,Los Angeles,Technology,Phones,Smartphone A,2,0.2,431.37,115.13
+1020,2024-01-20,First Class,Customer_20,West,Washington,Seattle,Technology,Laptops,Laptop X,8,0.05,1308.95,338.8
+1021,2024-01-21,Second Class,Customer_21,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone A,8,0,1194.69,88.41
+1022,2024-01-22,Standard Class,Customer_22,East,New York,New York,Office Supplies,Storage,Storage Box,4,0.2,1446.05,-17.0
+1023,2024-01-23,Standard Class,Customer_23,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,8,0.2,846.16,216.68
+1024,2024-01-24,Standard Class,Customer_24,East,New York,New York,Technology,Laptops,Laptop X,7,0,320.2,38.42
+1025,2024-01-25,Second Class,Customer_25,West,Washington,Seattle,Furniture,Bookcases,Wooden Bookcase,7,0.2,1669.57,375.31
+1026,2024-01-26,First Class,Customer_26,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,1,0.1,1744.46,266.4
+1027,2024-01-27,Standard Class,Customer_27,East,New York,New York,Office Supplies,Binders,Binder Set,2,0.2,125.96,16.09
+1028,2024-01-28,Standard Class,Customer_28,East,New York,New York,Technology,Laptops,Laptop X,7,0.2,1052.58,-37.99
+1029,2024-01-29,First Class,Customer_29,North,Punjab,Ludhiana,Office Supplies,Storage,Storage Box,5,0.15,448.67,39.72
+1030,2024-01-30,Second Class,Customer_30,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,3,0.1,155.04,3.81
+1031,2024-01-31,Second Class,Customer_31,East,New York,New York,Furniture,Tables,Study Table,1,0.2,802.78,112.49
+1032,2024-02-01,Standard Class,Customer_32,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,5,0.1,1604.24,336.64
+1033,2024-02-02,Standard Class,Customer_33,West,Washington,Seattle,Office Supplies,Storage,Storage Box,2,0.15,922.1,34.94
+1034,2024-02-03,First Class,Customer_34,North,Delhi,New Delhi,Furniture,Tables,Study Table,8,0.2,1155.88,48.18
+1035,2024-02-04,First Class,Customer_35,South,Karnataka,Bengaluru,Technology,Laptops,Laptop X,3,0.15,993.42,240.52
+1036,2024-02-05,Standard Class,Customer_36,West,California,Los Angeles,Furniture,Chairs,Office Chair,2,0.1,1620.59,38.13
+1037,2024-02-06,First Class,Customer_37,South,Karnataka,Bengaluru,Technology,Laptops,Laptop X,6,0.15,1589.51,-65.69
+1038,2024-02-07,Second Class,Customer_38,West,Washington,Seattle,Office Supplies,Paper,A4 Paper Pack,4,0.05,704.01,-25.66
+1039,2024-02-08,Second Class,Customer_39,South,Tamil Nadu,Chennai,Technology,Laptops,Laptop X,5,0,67.0,1.18
+1040,2024-02-09,Second Class,Customer_40,North,Punjab,Ludhiana,Office Supplies,Storage,Storage Box,3,0.2,1692.15,-16.3
+1041,2024-02-10,Second Class,Customer_41,North,Delhi,New Delhi,Office Supplies,Labels,Label Roll,2,0.15,638.59,143.84
+1042,2024-02-11,First Class,Customer_42,West,Washington,Seattle,Office Supplies,Labels,Label Roll,4,0.1,28.0,7.67
+1043,2024-02-12,Second Class,Customer_43,South,Karnataka,Bengaluru,Office Supplies,Storage,Storage Box,5,0.15,1202.51,-7.67
+1044,2024-02-13,Second Class,Customer_44,North,Punjab,Ludhiana,Office Supplies,Binders,Binder Set,3,0.2,365.52,66.79
+1045,2024-02-14,First Class,Customer_45,North,Punjab,Ludhiana,Furniture,Bookcases,Wooden Bookcase,6,0.15,398.07,89.57
+1046,2024-02-15,First Class,Customer_46,South,Tamil Nadu,Chennai,Office Supplies,Labels,Label Roll,3,0,1433.88,410.01
+1047,2024-02-16,Standard Class,Customer_47,North,Punjab,Ludhiana,Technology,Accessories,Wireless Mouse,1,0.05,423.74,8.35
+1048,2024-02-17,Second Class,Customer_48,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,4,0.05,1300.06,109.72
+1049,2024-02-18,Second Class,Customer_49,East,New York,New York,Technology,Laptops,Laptop X,1,0.2,1452.29,281.12
+1050,2024-02-19,First Class,Customer_50,West,California,Los Angeles,Technology,Printers,Laser Printer,6,0.15,1209.95,357.86
+1051,2024-02-20,First Class,Customer_51,South,Tamil Nadu,Chennai,Office Supplies,Labels,Label Roll,5,0.2,823.87,175.58
+1052,2024-02-21,Second Class,Customer_52,South,Karnataka,Bengaluru,Furniture,Chairs,Office Chair,6,0.2,1291.54,41.42
+1053,2024-02-22,Standard Class,Customer_53,East,New York,New York,Technology,Printers,Laser Printer,7,0.15,1256.76,247.89
+1054,2024-02-23,First Class,Customer_54,North,Punjab,Ludhiana,Technology,Laptops,Laptop X,1,0.2,1503.38,129.77
+1055,2024-02-24,Second Class,Customer_55,South,Tamil Nadu,Chennai,Furniture,Bookcases,Wooden Bookcase,4,0.15,1362.42,338.84
+1056,2024-02-25,Second Class,Customer_56,West,Washington,Seattle,Furniture,Chairs,Office Chair,3,0.15,715.22,131.68
+1057,2024-02-26,Second Class,Customer_57,West,California,Los Angeles,Office Supplies,Paper,A4 Paper Pack,3,0,174.01,17.4
+1058,2024-02-27,Second Class,Customer_58,North,Punjab,Ludhiana,Technology,Printers,Laser Printer,5,0.15,605.15,130.97
+1059,2024-02-28,First Class,Customer_59,North,Delhi,New Delhi,Technology,Phones,Smartphone A,2,0,1799.84,130.46
+1060,2024-02-29,Standard Class,Customer_60,East,New York,New York,Technology,Laptops,Laptop X,4,0.15,448.42,51.9
+1061,2024-03-01,Second Class,Customer_61,North,Punjab,Ludhiana,Office Supplies,Paper,A4 Paper Pack,2,0.2,1405.58,10.29
+1062,2024-03-02,First Class,Customer_62,East,Massachusetts,Boston,Furniture,Tables,Study Table,4,0,159.89,30.65
+1063,2024-03-03,First Class,Customer_63,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,6,0,1199.2,-31.02
+1064,2024-03-04,First Class,Customer_64,South,Tamil Nadu,Chennai,Furniture,Bookcases,Wooden Bookcase,3,0.15,1153.16,276.81
+1065,2024-03-05,Second Class,Customer_65,West,Washington,Seattle,Furniture,Furnishings,Desk Lamp,4,0,1490.68,234.58
+1066,2024-03-06,Second Class,Customer_66,North,Punjab,Ludhiana,Furniture,Furnishings,Desk Lamp,3,0.15,622.1,76.52
+1067,2024-03-07,Second Class,Customer_67,West,Washington,Seattle,Furniture,Bookcases,Wooden Bookcase,1,0.2,1587.57,310.23
+1068,2024-03-08,First Class,Customer_68,West,California,Los Angeles,Office Supplies,Labels,Label Roll,8,0.15,892.23,192.15
+1069,2024-03-09,First Class,Customer_69,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,6,0.15,742.81,26.11
+1070,2024-03-10,Standard Class,Customer_70,North,Punjab,Ludhiana,Furniture,Furnishings,Desk Lamp,4,0.1,505.88,19.22
+1071,2024-03-11,First Class,Customer_71,East,New York,New York,Technology,Printers,Laser Printer,5,0,515.79,80.65
+1072,2024-03-12,Standard Class,Customer_72,West,Washington,Seattle,Furniture,Tables,Study Table,5,0,561.52,111.07
+1073,2024-03-13,Second Class,Customer_73,East,Massachusetts,Boston,Office Supplies,Labels,Label Roll,8,0.15,207.09,-9.47
+1074,2024-03-14,Standard Class,Customer_74,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,7,0.15,1695.39,198.71
+1075,2024-03-15,First Class,Customer_75,East,New York,New York,Technology,Accessories,Wireless Mouse,7,0.2,176.2,6.5
+1076,2024-03-16,Second Class,Customer_76,West,Washington,Seattle,Furniture,Bookcases,Wooden Bookcase,1,0.2,1551.8,460.13
+1077,2024-03-17,Standard Class,Customer_77,East,New York,New York,Furniture,Chairs,Office Chair,3,0,303.78,3.29
+1078,2024-03-18,First Class,Customer_78,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,8,0,435.87,86.06
+1079,2024-03-19,Second Class,Customer_79,West,Washington,Seattle,Furniture,Chairs,Office Chair,3,0,991.6,175.19
+1080,2024-03-20,Second Class,Customer_80,East,New York,New York,Office Supplies,Storage,Storage Box,7,0.1,804.5,91.75
+1081,2024-03-21,First Class,Customer_81,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,5,0,1603.73,332.11
+1082,2024-03-22,Standard Class,Customer_82,East,New York,New York,Office Supplies,Storage,Storage Box,8,0.2,1047.84,227.47
+1083,2024-03-23,Standard Class,Customer_83,South,Tamil Nadu,Chennai,Office Supplies,Labels,Label Roll,8,0.1,1151.74,140.63
+1084,2024-03-24,First Class,Customer_84,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,8,0.1,1547.48,101.25
+1085,2024-03-25,Second Class,Customer_85,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,1,0.2,473.01,-4.46
+1086,2024-03-26,Second Class,Customer_86,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1,0.05,1130.18,140.68
+1087,2024-03-27,First Class,Customer_87,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,4,0.05,240.53,69.9
+1088,2024-03-28,Second Class,Customer_88,North,Delhi,New Delhi,Technology,Laptops,Laptop X,2,0.05,1786.26,481.44
+1089,2024-03-29,First Class,Customer_89,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,3,0.15,1764.93,62.31
+1090,2024-03-30,Second Class,Customer_90,West,California,Los Angeles,Furniture,Furnishings,Desk Lamp,1,0.1,628.28,141.8
+1091,2024-03-31,First Class,Customer_91,North,Punjab,Ludhiana,Furniture,Furnishings,Desk Lamp,7,0.15,637.59,91.28
+1092,2024-04-01,Standard Class,Customer_92,North,Delhi,New Delhi,Office Supplies,Labels,Label Roll,6,0.15,439.57,97.34
+1093,2024-04-02,Second Class,Customer_93,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,2,0.15,249.09,71.71
+1094,2024-04-03,Standard Class,Customer_94,East,Massachusetts,Boston,Office Supplies,Binders,Binder Set,2,0.15,752.71,134.87
+1095,2024-04-04,First Class,Customer_95,North,Punjab,Ludhiana,Office Supplies,Paper,A4 Paper Pack,7,0.1,1536.88,381.64
+1096,2024-04-05,Second Class,Customer_96,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,2,0,1795.43,379.5
+1097,2024-04-06,Second Class,Customer_97,South,Karnataka,Bengaluru,Technology,Phones,Smartphone A,6,0.15,600.77,-18.24
+1098,2024-04-07,Second Class,Customer_98,West,California,Los Angeles,Office Supplies,Binders,Binder Set,4,0.15,326.72,-7.31
+1099,2024-04-08,Second Class,Customer_99,West,California,Los Angeles,Office Supplies,Storage,Storage Box,5,0.2,840.74,154.19
+1100,2024-04-09,Second Class,Customer_100,West,California,Los Angeles,Furniture,Bookcases,Wooden Bookcase,8,0.1,1159.12,114.18
