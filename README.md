@@ -44,7 +44,27 @@ Retail-Sales-Analytics/
 │── requirements.txt
 │── README.md
 ```
+## How to Run
 
+1. Clone this repository
+
+2. Install the required libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the analysis
+
+```bash
+python analysis.py
+```
+
+The script will:
+- Load the retail sales dataset
+- Clean and analyze the data
+- Generate visualizations
+- Display business insights
 ---
 
 ## Key Findings
